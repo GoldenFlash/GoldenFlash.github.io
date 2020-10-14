@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wangwei531221571.gitee.io/2020/09/23/hello-world/</loc>
+    <loc>https://wangwei531221571.gitee.io/blog/2020/09/23/hello-world/</loc>
     
     <lastmod>2020-09-23</lastmod>
     
@@ -10,7 +10,7 @@
   
 
   <url>
-    <loc>https://wangwei531221571.gitee.io/</loc>
+    <loc>https://wangwei531221571.gitee.io/blog</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
